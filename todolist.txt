@@ -1,0 +1,12 @@
+1) Write a registration form with advance feature such as:-
+a) New Email Id suggestion based on first and second name.( Just like gmail registration form)
+
+2) Write a registration form with advance password combination feature. (with rating like bad, average, good, best,etc)
+
+3) Write a registration form with captcha operation.
+
+
+4) Write a blog using CakePHP
+
+5) Write an application to manage troubleshooting database using CakePHP
+
